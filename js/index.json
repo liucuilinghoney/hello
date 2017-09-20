@@ -1,0 +1,58 @@
+[
+  {
+    "page": "1",
+    "shop": [
+      {
+        "img": "img/main/page1/1.jpg",
+        "title": "顺通电脑维修",
+        "business": "主营：电脑维修，电脑周边配件，系统维护，网络安装，打印机加",
+        "address": "地址：北京通州区果园环岛葛布店北里10号楼底商",
+        "reparation": "先行赔付",
+        "identify": "同城帮认证",
+        "view": "人气：93965次浏览",
+        "icon":{"src":"img/main/crown.jpg","num":"2"}
+      },
+      {
+        "img": "img/main/page1/2.jpg",
+        "title": "北京鸿翔科技",
+        "business": "主营：台式机，笔记本芯片级维修，数据恢复、监控安装、网",
+        "address": "地址：北京海淀区西三旗旗胜家园1号楼底商103号",
+        "reparation": "先行赔付",
+        "identify": "同城帮认证",
+        "view": "人气：16647次浏览",
+        "icon":{"src":"img/main/diamond.jpg","num":"3"}
+      },
+      {
+        "img": "img/main/page1/3.jpg",
+        "title": "联金诚维修中心",
+        "business": "主营：电脑维修、apple、dell外星人维修、电脑配件、路由",
+        "address": "地址：北京西城区西直门内大街前桃园1号楼4门底商",
+        "reparation": "先行赔付",
+        "identify": "同城帮认证",
+        "view": "人气：84020次浏览",
+        "icon":{"src":"img/main/diamond.jpg","num":"4"}
+      },
+      {
+        "img": "img/main/page1/4.jpg",
+        "title": "小毛电脑维修部",
+        "business": "主营：电脑组装升级维修回收丶数据恢复丶网络调试丶办公耗材",
+        "address": "地址：北京石景山区鲁谷路68号京西珠宝城三层C176号",
+        "reparation": "先行赔付",
+        "identify": "同城帮认证",
+        "view": "人气：23676次浏览",
+        "icon":{"src":"img/main/diamond.jpg","num":"2"}
+      },
+      {
+        "img": "img/main/page1/5.jpg",
+        "title": "北京宏日电脑维修",
+        "business": "主营：电脑维修、组装回收、数据恢复、除尘升级、网络布",
+        "address": "地址：北京石景山区鲁谷南路依翠园14号楼底商（中国电信、移动旁边）",
+        "reparation": "先行赔付",
+        "identify": "同城帮认证",
+        "view": "人气：23682次浏览",
+        "icon":{"src":"img/main/diamond.jpg","num":"3"}
+      }
+    ]
+  }
+]
+
